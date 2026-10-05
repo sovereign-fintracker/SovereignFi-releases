@@ -21,19 +21,19 @@ Pick your platform. Every download page lists the newest build first.
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <h3>🤖 Android</h3>
 <sub>Android 7.0 or newer</sub><br><br>
 <a href="https://github.com/sovereign-fintracker/SovereignFi-releases/releases/latest"><img alt="Download for Android" src="https://img.shields.io/badge/Download-.apk-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a><br><br>
 <sub>Installs over your current app and keeps your data.</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <h3>📱 iPhone</h3>
 <sub>iOS 27 or newer</sub><br><br>
 <a href="https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=ios-beta&expanded=true"><img alt="Download for iPhone" src="https://img.shields.io/badge/Download-.ipa-0A84FF?style=for-the-badge&logo=apple&logoColor=white"></a><br><br>
 <sub>Sideload with AltStore or Sideloadly.</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <h3>💻 Mac</h3>
 <sub>macOS 26 or newer · Apple Silicon and Intel</sub><br><br>
 <a href="https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=macos-beta&expanded=true"><img alt="Download for Mac" src="https://img.shields.io/badge/Download-.dmg-8E8E93?style=for-the-badge&logo=apple&logoColor=white"></a><br><br>
