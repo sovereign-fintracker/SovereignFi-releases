@@ -7,8 +7,8 @@
 **Own your money.** A personal finance app that keeps your data on your device.
 
 [![Android](https://img.shields.io/github/v/release/sovereign-fintracker/SovereignFi-releases?filter=beta-*&label=Android&color=3DDC84&logo=android&logoColor=white&style=flat-square)](https://github.com/sovereign-fintracker/SovereignFi-releases/releases/latest)
-[![iOS](https://img.shields.io/github/v/release/sovereign-fintracker/SovereignFi-releases?filter=ios-beta-*&include_prereleases&label=iOS&color=0A84FF&logo=apple&logoColor=white&style=flat-square)](https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=ios-beta&expanded=true)
-[![macOS](https://img.shields.io/github/v/release/sovereign-fintracker/SovereignFi-releases?filter=macos-beta-*&include_prereleases&label=macOS&color=8E8E93&logo=apple&logoColor=white&style=flat-square)](https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=macos-beta&expanded=true)
+[![iOS](https://img.shields.io/github/v/release/sovereign-fintracker/SovereignFi-releases?filter=ios-beta-*&include_prereleases&label=iOS&color=0A84FF&logo=apple&logoColor=white&style=flat-square)](https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=ios&expanded=true)
+[![macOS](https://img.shields.io/github/v/release/sovereign-fintracker/SovereignFi-releases?filter=macos-beta-*&include_prereleases&label=macOS&color=8E8E93&logo=apple&logoColor=white&style=flat-square)](https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=macos&expanded=true)
 ![Status](https://img.shields.io/badge/status-beta-F5A623?style=flat-square)
 
 </div>
@@ -30,13 +30,13 @@ Pick your platform. Every download page lists the newest build first.
 <td align="center" valign="top" width="33%">
 <h3>📱 iPhone</h3>
 <sub>iOS 27 or newer</sub><br><br>
-<a href="https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=ios-beta&expanded=true"><img alt="Download for iPhone" src="https://img.shields.io/badge/Download-.ipa-0A84FF?style=for-the-badge&logo=apple&logoColor=white"></a><br><br>
+<a href="https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=ios&expanded=true"><img alt="Download for iPhone" src="https://img.shields.io/badge/Download-.ipa-0A84FF?style=for-the-badge&logo=apple&logoColor=white"></a><br><br>
 <sub>Sideload with AltStore or Sideloadly.</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <h3>💻 Mac</h3>
 <sub>macOS 26 or newer · Apple Silicon and Intel</sub><br><br>
-<a href="https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=macos-beta&expanded=true"><img alt="Download for Mac" src="https://img.shields.io/badge/Download-.dmg-8E8E93?style=for-the-badge&logo=apple&logoColor=white"></a><br><br>
+<a href="https://github.com/sovereign-fintracker/SovereignFi-releases/releases?q=macos&expanded=true"><img alt="Download for Mac" src="https://img.shields.io/badge/Download-.dmg-8E8E93?style=for-the-badge&logo=apple&logoColor=white"></a><br><br>
 <sub>Drag to Applications, then right-click → Open.</sub>
 </td>
 </tr>
